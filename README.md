@@ -1,54 +1,65 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Olá! Eu sou Alessandro</h1>
 
 ###
 
-<p align="left">My name is Alessandro and I am passionate about technology and programming. I am always looking to learn more and improve my skills.</p>
+<p align="left">Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Senac DF, com paixão por criar soluções tecnológicas eficientes e funcionais. Tenho experiência no desenvolvimento de projetos pessoais, criação de funcionalidades e resolução de bugs, e estou constantemente buscando aprender e aplicar novas tecnologias em projetos práticos.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🎯 Objetivo:</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Java<br>🎯 Goals: Contribute with IT to achieve better days in the future.<br>>
+<p align="left">Busco contribuir em ambientes que valorizam inovação, eficiência e melhoria contínua. Meu objetivo é crescer profissionalmente, aplicando minhas habilidades para desenvolver soluções de qualidade e impacto, que agreguem valor ao negócio e promovam resultados positivos.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="Java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="springboot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div> 
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandrooCosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrooCosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alessandrooCosta&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-##
+<h2 align="center">💻 Tecnologias que utilizo:</h2>
 
 ###
 
 <div align="center">
- <a href="https://linkedin.com/in/alessandrocosta103"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/> </a>
- <a href="https://linkedin.com/in/alessandrocosta103"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<h2 align="center">Status Code</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alessandrooCosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrooCosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="center">Conecte-se comigo:</h2>
+
+###
+
+<div align="center">
+  <a href="linkedin.com/in/alessandrocosta103/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="alessandrocosta103@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<p align="center"></p>
+
+###
